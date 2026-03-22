@@ -1,10 +1,10 @@
-# Hola, soy Elizabeth Guerrero 👋
+# Hola, soy Elizabeth Guerrero 
 
 Soy estudiante de **5to ciclo de Ingeniería de Ciencia de Datos e Inteligencia Artificial** en **SENATI**. Me apasiona transformar datos en decisiones estratégicas y optimizar procesos mediante el análisis avanzado.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### Mi Stack Tecnológico
 
 **Análisis y Ciencia de Datos**
 - **Lenguajes:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, R.

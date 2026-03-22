@@ -1,16 +1,19 @@
-# Hola, soy Elizabeth Guerrero 
+# PERFIL | ELIZABETH GUERRERO
 
-Soy estudiante de **5to ciclo de Ingeniería de Ciencia de Datos e Inteligencia Artificial** en **SENATI**. Me apasiona transformar datos en decisiones estratégicas y optimizar procesos mediante el análisis avanzado.
+Estudiante de Ingeniería de Ciencia de Datos e Inteligencia Artificial (5to Ciclo - SENATI).
 
 ---
 
-### Mi Stack Tecnológico
+### AREAS DE ESPECIALIZACION
 
-**Análisis y Ciencia de Datos**
-- **Lenguajes:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, R.
-- **Herramientas de BI:** Power BI (Dashboards interactivos, DAX).
-- **Metodologías:** Segmentación RFM, Procesos ETL, Análisis Predictivo.
+**Data Science & Analytics**
+* Procesamiento de datos con Python (Pandas).
+* Visualización  con Matplotlib.
+* Creación de Dashboards interactivos en Power BI utilizando lenguaje DAX.
 
-**Ingeniería de Software**
-- **Backend:** Java (Spring Boot), PHP.
-- **Bases de Datos:** MySQL, PostgreSQL.
+**Data Engineering & Backend**
+* Diseño y gestión de bases de datos en MySQL y PostgreSQL.
+* Desarrollo de lógica de negocio con Java (Spring Boot) y PHP.
+* Procesos de extracción, transformación y carga (ETL).
+
+---
